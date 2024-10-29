@@ -1,0 +1,18 @@
+﻿  FileName.cpp
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(26,31): warning C4244: '=': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(44,18): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(45,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(46,19): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(47,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(48,22): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(92,27): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(92,27): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(92,62): warning C4838: 'double'에서 'float'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(92,62): warning C4244: '초기화 중': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(99,53): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(107,60): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(107,56): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(114,47): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(114,43): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\source\repos\Project6\Project6\FileName.cpp(115,40): warning C4244: '인수': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  Project6.vcxproj -> C:\Users\user\source\repos\Project6\x64\Debug\Project6.exe
