@@ -1,0 +1,41 @@
+﻿  ElfMath.c
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfMath.c(35,14): warning C4013: 'cosf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfMath.c(35,30): warning C4013: 'sinf'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfMath.c(35,14): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfMath.c(35,29): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfMath.c(36,14): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfMath.c(36,29): warning C4244: '초기화 중': 'int'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfMath.c(74,9): error C2061: 구문 오류: 식별자 'multiply_matrix_vector'
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfMath.c(74,9): error C2059: 구문 오류: ';'
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfMath.c(74,32): error C2059: 구문 오류: '<parameter-list>'
+  ElfObject.c
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfObject.h(9,5): error C2061: 구문 오류: 식별자 'Vector2'
+  (소스 파일 '../../../../Downloads/GameDev-master%20(2)/GameDev-master/GameDev/ElfObject.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfObject.h(11,13): error C2061: 구문 오류: 식별자 'Scale'
+  (소스 파일 '../../../../Downloads/GameDev-master%20(2)/GameDev-master/GameDev/ElfObject.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfObject.h(11,13): error C2059: 구문 오류: ';'
+  (소스 파일 '../../../../Downloads/GameDev-master%20(2)/GameDev-master/GameDev/ElfObject.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfObject.h(14,13): error C2061: 구문 오류: 식별자 'Line'
+  (소스 파일 '../../../../Downloads/GameDev-master%20(2)/GameDev-master/GameDev/ElfObject.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfObject.h(14,13): error C2059: 구문 오류: ';'
+  (소스 파일 '../../../../Downloads/GameDev-master%20(2)/GameDev-master/GameDev/ElfObject.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfObject.h(14,17): error C2059: 구문 오류: '['
+  (소스 파일 '../../../../Downloads/GameDev-master%20(2)/GameDev-master/GameDev/ElfObject.c'을(를) 컴파일하는 중)
+  
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfObject.h(21,1): error C2059: 구문 오류: '}'
+  (소스 파일 '../../../../Downloads/GameDev-master%20(2)/GameDev-master/GameDev/ElfObject.c'을(를) 컴파일하는 중)
+  
+  main.c
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\main.c(39,27): warning C4013: 'multiply_matrices'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\main.c(43,25): warning C4013: 'apply_transformation'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\main.c(45,9): warning C4013: 'Elf2DDrawLine2'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\main.c(39,15): error C2440: '초기화 중': 'int'에서 'Matrix3x3'(으)로 변환할 수 없습니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\main.c(43,17): error C2440: '초기화 중': 'int'에서 'Vector2'(으)로 변환할 수 없습니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\main.c(44,17): error C2440: '초기화 중': 'int'에서 'Vector2'(으)로 변환할 수 없습니다.
+C:\Users\user\Downloads\GameDev-master (2)\GameDev-master\GameDev\main.c(50,9): error C2371: 'apply_transformation': 재정의. 기본 형식이 다릅니다.
+  코드를 생성하고 있습니다...

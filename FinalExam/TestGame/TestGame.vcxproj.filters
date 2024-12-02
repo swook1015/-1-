@@ -30,6 +30,12 @@
     <ClCompile Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfObject.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\GameDev.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\TestBuffer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfObject.h">

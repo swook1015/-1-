@@ -131,7 +131,9 @@
     <ClCompile Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfMath.c" />
     <ClCompile Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfObject.c" />
     <ClCompile Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\ElfTime.c" />
+    <ClCompile Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\GameDev.cpp" />
     <ClCompile Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\main.c" />
+    <ClCompile Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\TestBuffer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\..\..\Downloads\GameDev-master (2)\GameDev-master\GameDev\Elf2D.h" />
